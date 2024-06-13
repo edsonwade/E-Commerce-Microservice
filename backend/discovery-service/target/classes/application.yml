@@ -4,9 +4,3 @@ spring:
   application:
     name: discovery-service
 
-  output:
-    ansi:
-      enabled: always
-
-
-
