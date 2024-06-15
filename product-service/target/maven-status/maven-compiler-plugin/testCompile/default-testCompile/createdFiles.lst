@@ -1,6 +1,5 @@
 code\with\vanilson\productservice\ProductMapperTest.class
-code\with\vanilson\productservice\stepdefinitions\CucumberSpringConfiguration.class
-code\with\vanilson\productservice\ProductServiceTest.class
 code\with\vanilson\productservice\ProductControllerTest.class
-code\with\vanilson\productservice\CucumberTestRunner.class
-code\with\vanilson\productservice\stepdefinitions\ProductStepDefinitions.class
+code\with\vanilson\productservice\ProductDataTableTransformer.class
+code\with\vanilson\productservice\ProductServiceTest.class
+code\with\vanilson\productservice\config\CucumberSpringConfiguration.class

@@ -110,7 +110,7 @@
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <scope>runtime</scope>
+            <version>42.2.24</version> <!-- Replace with the latest version -->
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
